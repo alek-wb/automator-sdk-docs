@@ -1,0 +1,4 @@
+- Add info about filters, pagination and ordering
+- Add list of available field types
+- Add embedded resources to field lists
+- Consider separating query fields from mutation params. Currently some query fields are missing coz I copied them from create input params. Or add a `settable` and `gettable` column if field can be queried/updated
