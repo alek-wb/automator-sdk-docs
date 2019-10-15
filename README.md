@@ -1,7 +1,7 @@
 # Overview
 ---
 
-Automator API is using [GraphQL](https://graphql.github.io/) data query language.
+Automator API uses [GraphQL](https://graphql.github.io/) data query language.
 GraphQL offers flexible way of interacting with your Automator data.
 
 Our API allows two operations:
